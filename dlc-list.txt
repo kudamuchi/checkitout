@@ -1,1 +1,1 @@
-3-ImageTargets<url>https://firebasestorage.googleapis.com/v0/b/checkitout-30d6c.appspot.com/o/3-imagetargets?alt=media&token=c695ff89-8ae1-4487-9892-b0d2f7035bb2
+3-ImageTargets<url>https://github.com/kudamuchi/checkitout/blob/master/3-imagetargets
